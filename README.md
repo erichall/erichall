@@ -1,4 +1,4 @@
-### Hi 👋 I'm Eric
+### Hi, I'm Eric 👋
 
 <!--
 **erichall/erichall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
